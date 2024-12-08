@@ -1,5 +1,5 @@
-# Kebunq - Capstone-Project-Bangkit-2024-Batch2
-
+# KebunQ - Capstone-Project-Bangkit-2024-Batch2
+---------------
 <p> Hello folks! we are C242-PS388! <p>
 <p> This is our final project for bangkit capstone 2024 batch 2 <p>
 
