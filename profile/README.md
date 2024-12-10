@@ -20,7 +20,8 @@ You can find our relevant documentation at the following link:
 - [Mobile Development Documentation](https://github.com/KebunQ-Bangkit-Capstone/kebunQ-app)
 
 
-![Architechture KebunQ](https://github.com/user-attachments/assets/165b4217-4769-492a-8fe5-00256380603d)
+![yang baru](https://github.com/user-attachments/assets/81c6e4fd-d8b6-4f9c-9412-f5804cd025f6)
+
 
 # Contact
 
