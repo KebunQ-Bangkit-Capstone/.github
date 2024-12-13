@@ -3,8 +3,19 @@
 <p> Hello folks! we are C242-PS388! <p>
 <p> This is our final project for bangkit capstone 2024 batch 2 <p>
 
-Gambar
+<p align="center">
+  <img src="![KebunQ](https://github.com/user-attachments/assets/eecdc5bb-b8ec-486e-914a-2ee84bcc19ed)" width="300" height="300" alt="KebunQ">
+</p>
+<p align="center" style="margin-bottom: 20px; line-height: 0.8;">
+    <a href="https://www.figma.com/design/1ZpazAx1mjroswierpSyev/KebunQ?m=auto&t=fah1hk64vrBVNaPN-1">UI/UX</a> &middot;
+    <a href="https://docs.google.com/uc?export=download&id=1T9xJosld8eudHgB9oW5CVkCq-DrldYop">Apk download</a> &middot;
+    <a href="">Presentation Slide</a> 
+</p>
+
+https://github.com/user-attachments/assets/caf55af9-0b17-443c-af1a-1c9c3867c39e
+
 #### about
+
 Our project, KebunQ, is a mobile application designed to assist home gardeners in Indonesia by using image recognition to identify plant diseases. This solution aims to simplify plant care by providing accurate disease diagnosis and treatment recommendations.	
 
 ### Documentation
