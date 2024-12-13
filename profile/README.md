@@ -20,14 +20,8 @@ Our project, KebunQ, is a mobile application designed to assist home gardeners i
 
 ### Documentation
 You can find our relevant documentation at the following link:
-
-##### Machine Learning 
 - [Machine Learning Documentation](https://github.com/KebunQ-Bangkit-Capstone/kebunq-ml)
-
-##### Cloud Computing 
 - [Cloud Computing Documentation](https://github.com/KebunQ-Bangkit-Capstone/backend-api)
-
-##### Mobile Development 
 - [Mobile Development Documentation](https://github.com/KebunQ-Bangkit-Capstone/kebunQ-app)
 
 
