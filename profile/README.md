@@ -4,7 +4,7 @@
 <p> This is our final project for bangkit capstone 2024 batch 2 <p>
 
 <p align="center">
-  <img src="![KebunQ](https://github.com/user-attachments/assets/eecdc5bb-b8ec-486e-914a-2ee84bcc19ed)" width="300" height="300" alt="KebunQ">
+  <img src="https://github.com/user-attachments/assets/eecdc5bb-b8ec-486e-914a-2ee84bcc19ed" width="300" height="300" alt="KebunQ">
 </p>
 <p align="center" style="margin-bottom: 20px; line-height: 0.8;">
     <a href="https://www.figma.com/design/1ZpazAx1mjroswierpSyev/KebunQ?m=auto&t=fah1hk64vrBVNaPN-1">UI/UX</a> &middot;
