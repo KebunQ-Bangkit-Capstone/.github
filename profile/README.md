@@ -9,7 +9,7 @@
 <p align="center" style="margin-bottom: 20px; line-height: 0.8;">
     <a href="https://www.figma.com/design/1ZpazAx1mjroswierpSyev/KebunQ?m=auto&t=fah1hk64vrBVNaPN-1">UI/UX</a> &middot;
     <a href="https://docs.google.com/uc?export=download&id=1T9xJosld8eudHgB9oW5CVkCq-DrldYop">Apk download</a> &middot;
-    <a href="">Presentation Slide</a> 
+    <a href="https://www.canva.com/design/DAGYz4sB0sU/Ny8H9MWFdyU20IkmkfaGeA/view?utm_content=DAGYz4sB0sU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc748ab9c67">Presentation Slide</a> 
 </p>
 
 https://github.com/user-attachments/assets/caf55af9-0b17-443c-af1a-1c9c3867c39e
